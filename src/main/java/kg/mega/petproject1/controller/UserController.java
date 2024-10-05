@@ -47,4 +47,9 @@ public class UserController {
         return userService.findUserByRoleId(roleId);
 
     }
+
+    @GetMapping("/positionId/{positionId}")
+    public List<User> getUserByPositionId(@PathVariable("positionId") Long positionId) {
+        return userService.findUserByPositionId(positionId);
+    }
 }
