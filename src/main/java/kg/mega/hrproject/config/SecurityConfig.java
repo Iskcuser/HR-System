@@ -1,5 +1,5 @@
-package kg.mega.petproject1.config;
-import kg.mega.petproject1.service.UserService;
+package kg.mega.hrproject.config;
+import kg.mega.hrproject.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.dao.DaoAuthenticationProvider;

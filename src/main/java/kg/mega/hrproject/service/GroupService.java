@@ -1,7 +1,7 @@
-package kg.mega.petproject1.service;
+package kg.mega.hrproject.service;
 
-import kg.mega.petproject1.entity.Group;
-import kg.mega.petproject1.repository.GroupRepository;
+import kg.mega.hrproject.entity.Group;
+import kg.mega.hrproject.repository.GroupRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

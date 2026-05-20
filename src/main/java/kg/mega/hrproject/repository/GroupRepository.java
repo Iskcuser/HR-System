@@ -1,6 +1,6 @@
-package kg.mega.petproject1.repository;
+package kg.mega.hrproject.repository;
 
-import kg.mega.petproject1.entity.Group;
+import kg.mega.hrproject.entity.Group;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

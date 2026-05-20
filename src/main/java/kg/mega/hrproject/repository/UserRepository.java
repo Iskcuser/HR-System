@@ -1,6 +1,6 @@
-package kg.mega.petproject1.repository;
+package kg.mega.hrproject.repository;
 
-import kg.mega.petproject1.entity.User;
+import kg.mega.hrproject.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package kg.mega.petproject1.entity;
+package kg.mega.hrproject.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
@@ -7,16 +7,19 @@ import lombok.Setter;
 @Entity
 @Getter
 @Setter
-@Table(name = "branch")
-public class Branch {
+@Table(name = "department")
+public class Department {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id;
+    private Long id;
     private String name;
     private String description;
     private String email;
-    private String address;
-    @OneToOne
-    @JoinColumn(name = "head_user_id")
+    @ManyToOne
+    @JoinColumn(name="head_user_id")
     private User headUser;
+
+    @ManyToOne
+    @JoinColumn(name="head_department_id")
+    private Department headDepartment;
 }

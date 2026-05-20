@@ -1,6 +1,6 @@
-package kg.mega.petproject1.repository;
+package kg.mega.hrproject.repository;
 
-import kg.mega.petproject1.entity.Position;
+import kg.mega.hrproject.entity.Position;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface PositionRepository extends JpaRepository<Position, Long> {

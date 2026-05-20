@@ -1,7 +1,7 @@
-package kg.mega.petproject1.controller;
+package kg.mega.hrproject.controller;
 
-import kg.mega.petproject1.entity.Role;
-import kg.mega.petproject1.service.RoleService;
+import kg.mega.hrproject.entity.Role;
+import kg.mega.hrproject.service.RoleService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

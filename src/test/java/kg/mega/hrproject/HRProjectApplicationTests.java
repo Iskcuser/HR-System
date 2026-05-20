@@ -1,10 +1,10 @@
-package kg.mega.petproject1;
+package kg.mega.hrproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PetProject1ApplicationTests {
+class HRProjectApplicationTests {
 
 	@Test
 	void contextLoads() {

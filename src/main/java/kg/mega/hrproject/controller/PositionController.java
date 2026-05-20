@@ -1,7 +1,7 @@
-package kg.mega.petproject1.controller;
+package kg.mega.hrproject.controller;
 
-import kg.mega.petproject1.entity.Position;
-import kg.mega.petproject1.service.PositionService;
+import kg.mega.hrproject.entity.Position;
+import kg.mega.hrproject.service.PositionService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

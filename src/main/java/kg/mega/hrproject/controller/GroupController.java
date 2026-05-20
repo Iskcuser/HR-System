@@ -1,7 +1,7 @@
-package kg.mega.petproject1.controller;
+package kg.mega.hrproject.controller;
 
-import kg.mega.petproject1.entity.Group;
-import kg.mega.petproject1.service.GroupService;
+import kg.mega.hrproject.entity.Group;
+import kg.mega.hrproject.service.GroupService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

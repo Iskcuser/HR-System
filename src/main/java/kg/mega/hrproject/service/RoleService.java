@@ -1,8 +1,8 @@
-package kg.mega.petproject1.service;
+package kg.mega.hrproject.service;
 
 import jakarta.persistence.EntityNotFoundException;
-import kg.mega.petproject1.entity.Role;
-import kg.mega.petproject1.repository.RoleRepository;
+import kg.mega.hrproject.entity.Role;
+import kg.mega.hrproject.repository.RoleRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

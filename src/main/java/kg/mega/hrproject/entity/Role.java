@@ -1,4 +1,4 @@
-package kg.mega.petproject1.entity;
+package kg.mega.hrproject.entity;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;

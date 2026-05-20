@@ -1,12 +1,12 @@
-package kg.mega.petproject1.service;
+package kg.mega.hrproject.service;
 
 import jakarta.persistence.EntityNotFoundException;
-import kg.mega.petproject1.entity.Position;
-import kg.mega.petproject1.entity.Role;
-import kg.mega.petproject1.entity.User;
-import kg.mega.petproject1.repository.PositionRepository;
-import kg.mega.petproject1.repository.RoleRepository;
-import kg.mega.petproject1.repository.UserRepository;
+import kg.mega.hrproject.entity.Position;
+import kg.mega.hrproject.entity.Role;
+import kg.mega.hrproject.entity.User;
+import kg.mega.hrproject.repository.PositionRepository;
+import kg.mega.hrproject.repository.RoleRepository;
+import kg.mega.hrproject.repository.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
