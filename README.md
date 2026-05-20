@@ -10,7 +10,7 @@ This project was built through the collaborative efforts of our team:
 - Malfik31
 - Mariyam168
 - Aizhan242
-- Graess
+- Graeess
 - DezRofl
 - The-User-Web (alt account of Iskcuser)
 ---
