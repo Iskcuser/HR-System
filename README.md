@@ -14,12 +14,10 @@ This project was built through the collaborative efforts of our team:
 - DezRofl
 - The-User-Web (alt account of Iskcuser)
 ---
----
 ## Tech Stack
 - Java 17
 - Spring Boot
 - Maven (including Maven Wrapper for easy environment setup)
----
 ---
 ## How to run
 
